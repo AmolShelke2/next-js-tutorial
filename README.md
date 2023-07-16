@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next-js tutorial 
+
+Learning all the advanced topics of next.js including routing, ssr, csr, server components, etc.
 
 ## Getting Started
 
